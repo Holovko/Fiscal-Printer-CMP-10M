@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="BlueToothAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/Buttons</item>
+    </style>
+
+    <style name="Buttons" parent="Widget.AppCompat.Button">
+        <item name="android:minWidth">@dimen/button_min_width</item>
+        <item name="android:background">@color/colorPrimaryLight</item>
+    </style>
+
+</resources>

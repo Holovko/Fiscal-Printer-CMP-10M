@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="np.ua.awis_mobile.bluetoothapplication.test">
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="np.ua.awis_mobile.bluetoothapplication"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for np.ua.awis_mobile.bluetoothapplication"/>
+</manifest>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="title_select_device_printer_to_connect">Select device to connect</string>
+    <string name="title_init_connect">Init connect</string>
+    <string name="title_init_disconnect">Init disconnect</string>
+    <string name="title_print_zero_check">Print zero check</string>
+    <string name="title_print_x_report">Print x report</string>
+    <string name="title_print_z_report">Print z report</string>
+    <string name="title_payment_for_service">Payment for service</string>
+    <string name="title_money_back">Money back</string>
+    <string name="title_service_back">Service Back</string>
+    <string name="msg_bt_not_enabled_leaving">You need enable bluetooth</string>
+    <string name="title_button_scan">Scan for devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_connect_device">Connect a device</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="title_none_found">No devices found</string>
+    <string name="title_scanning">scanning for devices…</string>
+    <string name="title_print_cancel">Print cancellation</string>
+    <string name="msg_connected_to_device">Connected to device %1s</string>
+    <string name="msg_connecting">Connecting</string>
+    <string name="msg_no_connect">No connection</string>
+    <string name="msg_connected">Connected</string>
+</resources>

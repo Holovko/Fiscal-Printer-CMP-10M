@@ -1,0 +1,7 @@
+#Wed Feb 15 16:39:21 EET 2017
+base.0=/Users/andreyholovko/MyAndroid/Git/POS/sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9491b72462d92afe6c834d8f7fc42431b84fd7e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/andreyholovko/MyAndroid/Git/POS/sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5326ea2e009e0787eaea2060c85e76e7526f5c23/classes.dex
+base.1=/Users/andreyholovko/MyAndroid/Git/POS/sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5326ea2e009e0787eaea2060c85e76e7526f5c23
+file.0=/Users/andreyholovko/MyAndroid/Git/POS/sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9491b72462d92afe6c834d8f7fc42431b84fd7e/classes.dex

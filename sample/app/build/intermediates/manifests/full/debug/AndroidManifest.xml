@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="np.ua.awis_mobile.bluetoothapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true" >
+        <activity
+            android:name="np.ua.awis_mobile.bluetoothapplication.CmpExampleActivity"
+            android:theme="@style/BlueToothAppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="np.ua.awis_mobile.bluetoothapplication.DeviceListActivity"
+            android:label="@string/title_select_device_printer_to_connect"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.Alert" />
+    </application>
+
+</manifest>
